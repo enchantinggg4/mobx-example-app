@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+
+.split-layout {
+  display: flex;
+  flex-direction: row;
+
+}
+
+.layout-half {
+    flex: 1;
+  max-height: 100vh;
+  overflow-y: auto;
+}

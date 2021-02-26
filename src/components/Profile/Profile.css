@@ -1,0 +1,23 @@
+.todo {
+    padding: 20px;
+    font-size: 18px;
+    border: 1px solid black;
+}
+
+
+.profile-page {
+    padding: 20px;
+
+
+
+}
+
+.profile-page-title {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+
+.profile-page-todolist {
+    padding: 5px;
+}

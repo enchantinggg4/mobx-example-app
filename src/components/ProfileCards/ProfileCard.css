@@ -1,0 +1,17 @@
+.user-card {
+    display: flex;
+    flex-direction: column;
+
+    padding: 20px;
+    border: 1px solid #b7b7b7;
+    cursor: pointer;
+}
+
+.user-name {
+    font-size: 18px;
+}
+
+
+.user-card.active {
+    background: #b5efff;
+}
